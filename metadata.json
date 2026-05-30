@@ -1,0 +1,6 @@
+{
+  "name": "CS EduVisuals - High-End Infographic System",
+  "description": "An interactive, high-end educational infographic system explaining Stacks, Tree Traversals, Binary Search Trees, Hash Tables, Sorting Algorithm Races, and Searching Algorithm Comparisons. Created by Surla Darni Sree, Raghu Engineering College.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
